@@ -1,6 +1,4 @@
-# 👋 About Me
-
-I'm a person who wants to draw dreams with code.  
+Kang Hyo Kyu
 ---
 
 ## 🎓 Education
