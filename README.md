@@ -34,8 +34,7 @@ Kang Hyo Kyu
 
 ## 📄 Certificates
 
-- **Internet Security Expert Grade II**
-- **TEPS 370**
+- Internet Security Expert Grade II
 
 ---
 
@@ -44,3 +43,8 @@ Kang Hyo Kyu
 **Languages**  
 - Python, C/C++
 - 
+## Language Skils
+- **TEPS 370**
+
+## Others
+- Completed mandatory military service as a CERT (Computer Emergency Response Team) (2023.02 ~ 2024.08)  
