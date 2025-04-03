@@ -33,16 +33,14 @@ Kang Hyo Kyu
 ---
 
 ## 📄 Certificates
-
 - Internet Security Expert Grade II
-
 ---
 
 ## 💻 Technical Skills
 
 **Languages**  
 - Python, C/C++
-- 
+  
 ## Language Skils
 - **TEPS 370**
 
