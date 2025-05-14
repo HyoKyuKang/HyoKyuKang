@@ -7,7 +7,7 @@ Kang Hyo Kyu
 - Bachelor’s Degree in Computer Engineering (2020.03 ~ Present)  
 
 **AISys Lab**
-- Member of AISys Lab Undergraduated intern (2024.12 ~ Present)
+- Member of AISys Lab Undergraduated intern (2024.12 ~ 2025.04)
 ---
 
 ## 💼 Experience
