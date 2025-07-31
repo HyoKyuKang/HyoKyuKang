@@ -39,7 +39,7 @@ Kang Hyo Kyu
 ## 💻 Technical Skills
 
 **Languages**  
-- Python, C/C++
+- Python, C/C++, C#
   
 ## Language Skils
 - **TEPS 370**
