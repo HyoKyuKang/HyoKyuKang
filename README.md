@@ -15,7 +15,7 @@ Kang Hyo Kyu
 ### Sogang ICPC Team
 - Member & tutor at the university’s algorithm study group
 - Participated in ICPC and other programming team competitions 
-- Tutoring **intermediate-level algorithm lectures**, focusing on problem-solving patterns and strategies
+- Tutoring intermediate-level algorithm lectures, focusing on problem-solving patterns and strategies
 - 2021 ~ 2024 Sogang University Programming Contest Problem Setter/Operator
 
 ## 🏅 Honors & Awards
