@@ -23,7 +23,7 @@ Kang Hyo Kyu
 
 **Personal**
 - 2020 Sogang Programming Contest Master Division – 1st place  
-- 2020 Sogang Programming Contest Champion Division – 2nd place  
+- 2025 Sogang Programming Contest Champion Division – 2nd place  
 - 2024 Samsung Collegiate Programming Cup – 5th place  
 
 **Team**
